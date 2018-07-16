@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>696_big.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\696_big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>39</ymin>
+			<xmax>144</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>

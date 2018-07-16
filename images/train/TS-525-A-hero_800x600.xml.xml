@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>TS-525-A-hero_800x600.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\TS-525-A-hero_800x600.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>263</xmin>
+			<ymin>42</ymin>
+			<xmax>546</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+</annotation>

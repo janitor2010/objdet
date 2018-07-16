@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>HiRes_fotofabrika_Fotolia.com_Fotolia_112899365_Subscription_XXL.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\HiRes_fotofabrika_Fotolia.com_Fotolia_112899365_Subscription_XXL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>520</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>45</ymin>
+			<xmax>985</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

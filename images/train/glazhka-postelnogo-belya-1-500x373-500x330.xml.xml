@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>glazhka-postelnogo-belya-1-500x373-500x330.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\glazhka-postelnogo-belya-1-500x373-500x330.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1</ymin>
+			<xmax>199</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

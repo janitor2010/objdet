@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>1297666200-shutterstock_655268263.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\1297666200-shutterstock_655268263.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>139</ymin>
+			<xmax>393</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

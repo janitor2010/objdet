@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>v4-728px-Iron-Step-1-Version-6.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\v4-728px-Iron-Step-1-Version-6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>37</ymin>
+			<xmax>708</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>

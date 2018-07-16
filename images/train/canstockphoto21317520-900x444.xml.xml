@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>canstockphoto21317520-900x444.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\canstockphoto21317520-900x444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>444</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>73</ymin>
+			<xmax>478</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

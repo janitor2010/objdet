@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>handy-resistant-ironing-cloth-protective-insulation-pad-home-ironing-mat-white-40-60cm-8678-91428071-8c2ad2f641a67f972d00fc34f0eb833e-catalog_233.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\handy-resistant-ironing-cloth-protective-insulation-pad-home-ironing-mat-white-40-60cm-8678-91428071-8c2ad2f641a67f972d00fc34f0eb833e-catalog_233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>233</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>35</ymin>
+			<xmax>137</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

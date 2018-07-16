@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>f40406f1b0763df34dfbff3124d607af.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\f40406f1b0763df34dfbff3124d607af.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>794</width>
+		<height>464</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>203</ymin>
+			<xmax>216</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

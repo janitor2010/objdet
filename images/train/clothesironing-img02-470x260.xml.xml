@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>clothesironing-img02-470x260.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\clothesironing-img02-470x260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>1</ymin>
+			<xmax>375</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

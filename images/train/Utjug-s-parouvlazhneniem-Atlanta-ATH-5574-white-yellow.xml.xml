@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>Utjug-s-parouvlazhneniem-Atlanta-ATH-5574-white-yellow.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\Utjug-s-parouvlazhneniem-Atlanta-ATH-5574-white-yellow.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>46</ymin>
+			<xmax>286</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

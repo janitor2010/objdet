@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>shutterstock_485357941-720666.jpg.ulenscale.800x268.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\shutterstock_485357941-720666.jpg.ulenscale.800x268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>58</xmin>
+			<ymin>76</ymin>
+			<xmax>490</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

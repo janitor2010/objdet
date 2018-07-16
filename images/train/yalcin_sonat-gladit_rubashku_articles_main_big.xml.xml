@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>yalcin_sonat-gladit_rubashku_articles_main_big.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\yalcin_sonat-gladit_rubashku_articles_main_big.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>582</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>140</ymin>
+			<xmax>358</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

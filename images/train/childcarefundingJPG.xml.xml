@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iii</folder>
+	<filename>childcarefundingJPG.jpg</filename>
+	<path>C:\Users\janitor2010\Desktop\iii\childcarefundingJPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>409</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>iron</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>10</ymin>
+			<xmax>427</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
